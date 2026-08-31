@@ -82,5 +82,6 @@ pip install -r requirements.txt
 ```
 
 ## Credits
-
+ 
 Course: [PyTorch for Deep Learning & Machine Learning – Full Course](https://www.youtube.com/watch?v=LyJtbe__2i0) by Daniel Bourke.
+Companion repo: [mrdbourke/pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning) — reference material and code I'm following along with.
