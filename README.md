@@ -42,8 +42,8 @@ pytorch-learning-log/
 ## Step Notes
 
 ### 01 — Basics
-*Summary:*
-*What clicked / what confused me:*
+*Summary:* Covered what neural networks are, how they differ from traditional rule-based programs, and why PyTorch (GPU/CUDA support) is the standard tool for building them.
+*What clicked / what confused me:* The idea that the model finds the pattern instead of being told the rule finally made ML "click" conceptually — still fuzzy on exactly how CUDA speeds things up under the hood.
 
 ### 02 — Tensors
 *Summary:*
