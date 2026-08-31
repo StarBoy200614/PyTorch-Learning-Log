@@ -4,9 +4,9 @@ Documenting my journey through [PyTorch for Deep Learning](https://www.youtube.c
 
 ## Progress
 
-- [ ] **01 — PyTorch & Deep Learning Basics** 🧠
+- ✅ **01 — PyTorch & Deep Learning Basics** 🧠
   Traditional programming vs. ML, why PyTorch, GPU/CUDA acceleration.
-- [ ] **02 — Tensor Fundamentals** 🧱
+- ✅ **02 — Tensor Fundamentals** 🧱
   Creating tensors, tensor ops, reshaping/stacking/squeezing/permuting, NumPy interop.
 - [ ] **03 — The PyTorch Workflow** 🔄
   Data prep, subclassing `nn.Module`, training loop, saving/loading models.
